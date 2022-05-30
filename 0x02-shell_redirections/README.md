@@ -1,1 +1,1 @@
-1.A script that prints “Hello, World”, followed by a new line to the standard output.
+All scripts are for redirection purposes
